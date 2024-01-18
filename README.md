@@ -1,2 +1,1 @@
-# mid-term-project
-banoqabil-2.0-project
+“LaptopMart: Your one-stop digital marketplace for a wide range of laptops. Offering the best deals on top brands, we cater to all your computing needs. Experience seamless online shopping with our user-friendly platform. Join us at LaptopMart, where quality meets affordability.”
